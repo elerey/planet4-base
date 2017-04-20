@@ -1,6 +1,6 @@
 {
-	"name": "greenpeace/planet4-base",
-	"version": "0.1.2",
+	"name": "greenpeace/planet4-base-local",
+	"version": "0.1.0",
 
 	"repositories": [
 		{

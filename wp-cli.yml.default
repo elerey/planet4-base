@@ -1,8 +1,8 @@
 path: public
 
 core config:
-  dbuser: db_user
-  dbpass: db_pass
+  dbuser: root
+  dbpass: root
   dbname: wordpress
   dbhost: 127.0.0.1
 
